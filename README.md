@@ -1,1 +1,1 @@
-# Parcial2
+# Por favor ejecutar la rama master
